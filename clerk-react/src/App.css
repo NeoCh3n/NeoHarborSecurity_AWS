@@ -1,0 +1,14 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-background-body, #f2f3f3);
+}
+
+#root {
+  display: flex;
+}

@@ -1,0 +1,14 @@
+:root {
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  font-family: 'Amazon Ember', 'Helvetica Neue', Arial, sans-serif;
+  background-color: var(--color-background-layout-main, #f2f3f3);
+  color: var(--color-text-body-default, #1a1a1a);
+}
+
+a {
+  color: inherit;
+}
